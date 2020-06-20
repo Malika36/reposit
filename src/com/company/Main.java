@@ -7,5 +7,6 @@ public class Main {
         System.out.println("SecondCommit");
         System.out.println("NextCommi");
         System.out.println("ChangesonIDEIntellijIdea");
+        System.out.println("ChangesonGitHub");
     }
 }
